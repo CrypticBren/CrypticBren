@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Coding since: December 23 2022<br>📚 I'm currently learning: JavaScript<br>🎯 Goals: To make a fully functional vr game with it's own api<br>🎲 Fun fact: my first vr(that didn't use a phone) was a psvr</p>
+<p align="left">✨ Coding since: December 23 2022<br>📚 I'm currently learning: C#<br>🎯 Goals: To make a fully functional vr game with it's own api<br>🎲 Fun fact: my first vr(that didn't use a phone) was a psvr</p>
 
 ###
 
